@@ -24,3 +24,5 @@ while(my_set_input != my_set_word):
     print(f"Fortschritt: {progress}\n")
     
 print(f"Herzlichen Glückwunsch, das Wort war: {word}")
+
+#Test

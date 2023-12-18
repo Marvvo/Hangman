@@ -30,4 +30,4 @@ while(my_set_input != my_set_word):
 
     #print(f"Word: {my_set_word.intersection(my_set_input)}")
     
-print(f"Herzlichen Glückwunsch, das Wort war: {word} \n Noch eine Runde?")
+print(f"Herzlichen Glückwunsch, das Wort war: {word}")
